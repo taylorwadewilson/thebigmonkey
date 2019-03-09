@@ -1,0 +1,8 @@
+brainstorm
+
+Entities:
+- Golfer
+- Round
+- Hole
+- Course
+- Tournament
